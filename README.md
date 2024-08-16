@@ -1,12 +1,15 @@
 Portfolio Web Application with Integrated RAG Chatbot
+
 Team members :
 Anmol Valecha (NUID - 002813410)
 Kaushikee Bhawsar (NUID - 002704590)
-Youtube Link -
+
+Youtube Link - https://youtu.be/NVH36Bs7c6o
 Project Documents - Project proposal, Final Project Presentation, and Final Report are available in GitHub repo
-Website Link -
-Kaushikee's portfolio
-Anmol's portfolio
+Website Link - 
+[Kaushikee's portfolio](https://kaushikeebhawsar.netlify.app/#/)
+[Anmol's portfolio](https://anmolvalechaportfoliobot.netlify.app/#/)
+
 Project Overview
 This project is a comprehensive portfolio website that showcases personal skills, projects, and achievements. It is designed with a modern, responsive frontend and a robust backend, integrated with an AI-powered chatbot using Retrieval-Augmented Generation (RAG). The chatbot allows users to submit natural language queries about the portfolio owner's profile, providing an interactive and engaging experience.
 
@@ -29,9 +32,9 @@ Clone the Repository
 <<<<<<< HEAD
 git clone https://github.com/valecha-a/PORTFOLIO_BOT.git
 =======
-git clone https://github.com/kaushikeebhawsar99/FINAL-PROJECT-PORTFOLIO-RAG-CHATBOT.git
->>>>>>> cb81731c59385802765971d26eb2b889edd49fa8
-cd final-project-portfolio-rag-chatbot
+git clone (https://github.com/valecha-a/PORTFOLIO_BOT.git)
+
+cd FinalProject
 Setup and Run the React App
 Install Dependencies: Navigate to the frontend directory and install the necessary dependencies:
 cd portfolio_react_app
@@ -52,51 +55,15 @@ The chatbot will be accessible at http://localhost:8501. You can interact with i
 
 Project Structure
 frontend/: Contains the React application for the portfolio website.
-chatbot/: Contains the Streamlit application and all necessary files for the RAG chatbot.
+AnmolResumeBot/: Contains the Streamlit application and all necessary files for the RAG chatbot.
 License
 <<<<<<< HEAD
 This project is licensed under the MIT License. See the LICENSE file for more details.
 =======
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-2
-@kaushikeebhawsar99
-kaushikeebhawsar99
-@Kaushikee-Bhawsar
-Kaushikee-Bhawsar
-Languages
-JavaScript
-86.2%
- 
-CSS
-8.4%
- 
-Python
-4.2%
- 
-HTML
-1.2%
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
->>>>>>> cb81731c59385802765971d26eb2b889edd49fa8
+
+Contact Me:
+Github Link : https://github.com/valecha-a/
+Email Address : valecha.a@northeastern.edu
+LinkedIn : https://www.linkedin.com/in/anmol-valecha/

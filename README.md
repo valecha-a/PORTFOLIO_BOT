@@ -12,6 +12,18 @@ Website Link -
 [Kaushikee's portfolio](https://kaushikeebhawsar.netlify.app/#/)
 
 
+Please refer branch:
+Branch main:
+- Portfolio Web Application with RAG Chatbot.pdf
+- Portfolio with RAG Chatbot Report.pdf
+- Project_Architecture .png
+
+Branch master:
+- for Anmol_ResumeBot code
+  
+Branch frontend:
+- for frontend code
+
 Project Overview
 This project is a comprehensive portfolio website that showcases personal skills, projects, and achievements. It is designed with a modern, responsive frontend and a robust backend, integrated with an AI-powered chatbot using Retrieval-Augmented Generation (RAG). The chatbot allows users to submit natural language queries about the portfolio owner's profile, providing an interactive and engaging experience.
 
@@ -21,6 +33,7 @@ AI-powered RAG chatbot integrated using Streamlit, Hugging Face transformers, an
 Easy-to-follow setup instructions for cloning and running the project locally
 Project Architecture
 alt text
+
 
 Prerequisites
 Before you begin, ensure you have the following installed on your system:

@@ -138,7 +138,7 @@ function Header(props) {
                 className="cr"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://play.google.com/store/apps/details?id=com.picle.journalify"
+                href="https://portfolioavbot.streamlit.app/"
                 tag={Link}
                 activeStyle={{ fontWeight: "bold" }}
                 style={{ borderRadius: 5, color: theme.text }}

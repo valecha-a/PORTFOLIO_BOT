@@ -26,7 +26,11 @@ Python (v3.7 or later)
 pip (Python package installer)
 Setup Instructions
 Clone the Repository
+<<<<<<< HEAD
 git clone https://github.com/valecha-a/PORTFOLIO_BOT.git
+=======
+git clone https://github.com/kaushikeebhawsar99/FINAL-PROJECT-PORTFOLIO-RAG-CHATBOT.git
+>>>>>>> cb81731c59385802765971d26eb2b889edd49fa8
 cd final-project-portfolio-rag-chatbot
 Setup and Run the React App
 Install Dependencies: Navigate to the frontend directory and install the necessary dependencies:
@@ -50,4 +54,49 @@ Project Structure
 frontend/: Contains the React application for the portfolio website.
 chatbot/: Contains the Streamlit application and all necessary files for the RAG chatbot.
 License
+<<<<<<< HEAD
 This project is licensed under the MIT License. See the LICENSE file for more details.
+=======
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+About
+No description, website, or topics provided.
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 1 watching
+Forks
+ 0 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Contributors
+2
+@kaushikeebhawsar99
+kaushikeebhawsar99
+@Kaushikee-Bhawsar
+Kaushikee-Bhawsar
+Languages
+JavaScript
+86.2%
+ 
+CSS
+8.4%
+ 
+Python
+4.2%
+ 
+HTML
+1.2%
+Footer
+© 2024 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+>>>>>>> cb81731c59385802765971d26eb2b889edd49fa8

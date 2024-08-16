@@ -43,7 +43,7 @@ This project is a comprehensive portfolio website that showcases personal skills
 - **Easy Setup:** Instructions for cloning and running the project locally.
 
 ### Project Architecture
-![Project Architecture](Project_Architecture .png) <!-- Replace with the actual path to your image -->
+![Project Architecture] Project_Architecture.png <!-- Replace with the actual path to your image -->
 
 ---
 

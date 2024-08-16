@@ -8,8 +8,9 @@ Youtube Link - https://youtu.be/NVH36Bs7c6o
 Project Documents - Project proposal, Final Project Presentation, and Final Report are available in GitHub repo
 Website Link - 
 
-[Kaushikee's portfolio](https://kaushikeebhawsar.netlify.app/#/)
 [Anmol's portfolio](https://anmolvalechaportfoliobot.netlify.app/#/)
+[Kaushikee's portfolio](https://kaushikeebhawsar.netlify.app/#/)
+
 
 Project Overview
 This project is a comprehensive portfolio website that showcases personal skills, projects, and achievements. It is designed with a modern, responsive frontend and a robust backend, integrated with an AI-powered chatbot using Retrieval-Augmented Generation (RAG). The chatbot allows users to submit natural language queries about the portfolio owner's profile, providing an interactive and engaging experience.
